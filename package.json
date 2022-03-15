@@ -1,0 +1,13 @@
+{
+  "name": "maggi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sushreessethi <sushreeshivanisethi.211ee155@nitk.edu.in>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "maggi": "^1.0.2",
+    "popper.js": "^1.16.1"
+  }
+}
